@@ -30,10 +30,13 @@ In this project, we specifically use the **ResNet50** backbone for the RetinaFac
 
 Make sure you have the `Resnet50_Final.pth` model weights in the correct path.
 
-Pretrain model and trained model are put in google cloud. The model could be put as follows:
+Pretrain model and trained model are put in google drive(https://drive.google.com/drive/folders/1oZRSG0ZegbVkVwUd8wUIQx8W7yfZ_ki1). The model could be put as follows:
 
   ./weights/
+  
       mobilenet0.25_Final.pth
+      
       mobilenetV1X0.25_pretrain.tar
+      
       Resnet50_Final.pth
 
