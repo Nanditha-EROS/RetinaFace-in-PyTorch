@@ -40,3 +40,6 @@ Pretrain model and trained model are put in google drive(https://drive.google.co
       
       Resnet50_Final.pth
 
+##Command to run the .py file
+
+python detect.py --trained_model weights/Resnet50_Final.pth --network resnet50
